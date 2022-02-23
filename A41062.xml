@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is to the clergy who are the men that goes about to settle religion (as they say) according to the Church of England, whether they may be bishops or presbyters, or what name soever they may go under.</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41062</idno>
+            <idno type="STC">Wing F637</idno>
+            <idno type="STC">ESTC R27979</idno>
+            <idno type="EEBO-CITATION">10285680</idno>
+            <idno type="OCLC">ocm 10285680</idno>
+            <idno type="VID">44831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is to the clergy who are the men that goes about to settle religion (as they say) according to the Church of England, whether they may be bishops or presbyters, or what name soever they may go under.</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed M.F. Attributed by Wing to Margaret Fell.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44831:1"/>
+            <pb facs="tcp:44831:1" rendition="simple:additions"/>
+            <head>This is to the CLERGY Who are the Men that goes about to ſettle RELIGION (As they ſay) according to the Church of England. Whether they may be <hi>BISHOPS</hi> or <hi>PRESBYTERS,</hi> or what Name ſoever they may go under.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am moved of the Lord God to give you a <hi>Warning</hi> from him in love to all your ſouls, that you may not bring upon your ſelves the guilt of inno<g ref="char:EOLhyphen"/>cent blood, and that you may be ware and cau<g ref="char:EOLhyphen"/>tious concerning this thing, which is of great and high Concernment, leſt you do intrench upon the Right and Prerogative of <hi>CHRIST JESUS,</hi> who is the Head of his Church, which is his Body,
+<note place="margin">
+                  <hi>Eph.</hi> 1.21, 22.</note> the fulneſs of him that filleth all in all, far above all Principalities and Powers, Might and Do<g ref="char:EOLhyphen"/>minion, &amp; every Name that is named; not only in this World, but alſo in that which is to come, <hi>who hath led captivity captive, and gave gifts unto men, ſome</hi> Apoſtles, <hi>ſome</hi> Prophets, <hi>ſome</hi> Evan<g ref="char:EOLhyphen"/>geliſts, <hi>and ſome</hi> Paſtors <hi>and</hi> Teachers, <hi>for the perfecting of the</hi> Saints, <hi>for the work of the</hi> Miniſtry, <hi>for the edifying of the Body of Chriſt;</hi> that was the <hi>End</hi> and <hi>Work</hi> that they had to do, who had received gifts from God for the Work of the Miniſtry: Now
+<pb n="2" facs="tcp:44831:2" rendition="simple:additions"/>if you have this Authority from <hi>CHRIST,</hi> who is the Head of the Body, his Church, &amp; have received Commiſſion from him, and the gifts which he gives for this Work, then you would be tender over his Saints and Lambs which he hath gathered into his Fold in this his Day, by the Miniſtration of his Spirit which he hath given unto every one to profit with all; and no man by the Spirit of God calleth Jeſus accurſed: Now prove your ſelvs, &amp; let your practice prove you, whether you have your deriva<g ref="char:EOLhyphen"/>tion from this Root and Rock on which the whole Church is built, which Rock is <hi>CHRIST,</hi> who gives diverſities of Gifts by the ſame Spirit; for to one is given by the Spirit, <hi>the Word of Wiſ<g ref="char:EOLhyphen"/>dom,</hi> to another <hi>the word of knowledge</hi> by the ſame Spirit, to ano<g ref="char:EOLhyphen"/>ther <hi>Faith</hi> by the ſame Spirit, to another the <hi>gift of healing</hi> by the ſame Spirit, to another <hi>the working of Miracles,</hi> to another <hi>Propheſie,</hi> to another <hi>diſcerning of Spirit,</hi> to another <hi>divers kinds of Tongues,</hi> and to another the <hi>Interpretation of Tongues;</hi> but all theſe worketh <hi>that one,</hi> and the ſelf-<hi>ſame ſpirit.</hi>
+            </p>
+            <p>Now if you drink of this Spirit, and be baptized into this body, which you profeſs to ſucceed from, then will you be ten<g ref="char:EOLhyphen"/>der, and be careful of thoſe that have received theſe gifts of his Spirit, which may be ſeveral and various, which Spirit can<g ref="char:EOLhyphen"/>not be limited, becauſe it proceeds from the Lord of Heaven and Earth;
+<note place="margin">1 <hi>Cor.</hi> 12.</note> and though there may be differences of Admini<g ref="char:EOLhyphen"/>ſtrations, <hi>yet the ſame Lord;</hi> and though there may be diverſi<g ref="char:EOLhyphen"/>ties of operations, <hi>it is the ſame God that worketh all in all:</hi> And this is he that cannot be limited, who hath created Heaven and Earth, and rules and orders all things by the Word of his Power, who will make all ſubject unto him and will make all his people willing in this day of his Power, to be obedient un<g ref="char:EOLhyphen"/>to him, who is coming to rule in the hearts and conſciences of men; and there is he eſtabliſhing his Throne, which is for ever and ever, and his Scepter there he will ſway, which is a righteous Scepter, and the Nations will he rule with a Rod of Iron, &amp; break to pieces all his Enemies like a <hi>Potters</hi> Veſſel.</p>
+            <p>Now it is very like that you, or at leaſt many of you cannot believe that he is thus come, and coming; and therefore you may take the more boldneſs and liberty to act againſt him &amp; his Power, becauſe you will not ſee nor believe that this is he; now that you may not be ignorant when Chriſt appears a<g ref="char:EOLhyphen"/>gainſt thoſe his Enemies that would not that he ſhould reign,
+<pb n="3" facs="tcp:44831:2"/>am I moved to warn you, before you proceed and go on in a<g ref="char:EOLhyphen"/>cting againſt the Lord God, that you may not be ignorant in this thing.</p>
+            <p>Conſider, <hi>Paul</hi> (who once was called <hi>Saul</hi>) how zealous he was in perſecuting of the Saints, and he had great reaſon, in that he was a <hi>Jew outward,</hi> and touching the Law, a <hi>Phariſee,</hi> and concerning the Law <hi>blameleſs;</hi> yet in the blindneſs of his zeal and ignorance, breathed he out threatnings againſt the <hi>Saints,</hi> which afterwards was his ſorrow. Now ſit down ſolemnly, and conſider ſeriouſly, that God is a Spirit, and his Worſhip is in the Spirit, and he hath promiſed the pouring forth of his Spi<g ref="char:EOLhyphen"/>rit, and this cannot be limited to Time, nor Place, nor Per<g ref="char:EOLhyphen"/>ſon; for it is not men that ye have to deal with in this thing, but the Lord; this is the Stone that all the Builders ever ſet at nought, and did diſallow, which now is become the Head of the Corner, which indeed is the Lord's doing, and its mar<g ref="char:EOLhyphen"/>velous in our eyes.</p>
+            <p>Now if a man deſires the Office of a <hi>Biſhop,</hi> he deſires a good Work, and not a great Name only; but he deſires that the good Work of God may go on, and not to ſtop it: But a <hi>Bi<g ref="char:EOLhyphen"/>ſhop muſt be blameleſs, the Husband of one Wife, valiant, ſober, and of a good behaviour, apt to teach, not given to wine, no ſtriker,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 3. <hi>Tit.</hi> 1.6.</note> 
+               <hi>not</hi> greedy <hi>of filthy lucre, but patient, not a brawler, nor covetous, one that ruleth well his own Houſe; for if a man know not how to rule his own Houſe, how ſhall he take care of the Church of God: For a Biſhop muſt be blameleſs as the Steward of God, not ſelf-willed, nor ſoon angry, but a lover of good men, ſober, juſt, holy, and temperate.</hi> Theſe are the Qualificati<g ref="char:EOLhyphen"/>ons and Marks of them that ſhould be Overſeers of the <hi>Church</hi> of <hi>God,</hi> And likewiſe <hi>Deacons muſt be grave, not double-tongued, not given to much wine, not given to filthy Lucre, holding the Myſtery of Faith in a pure Conſcience: Let theſe alſo, firſt be proved,</hi> ſaith the Apoſtle. And ſo thoſe that deſires or looks after, or takes upon them theſe Offices of being <hi>Biſhops</hi> and <hi>Deacons,</hi> and to be <hi>Overſeers</hi> of the Church of God, they ought to be proved and tryed before-hand, whether they are men fearing God, and hating Covetouſneſs, bringing forth fruits of the Spirit, not men of corrupt minds, not reprobate concerning the Faith, but holding the Myſtery of Faith in a pure Conſci<g ref="char:EOLhyphen"/>ence, void of offence, and were to give no offence, neither to the <hi>Jew,</hi> nor <hi>Gentile,</hi> nor to the Church of God; Such were
+<pb n="4" facs="tcp:44831:3" rendition="simple:additions"/>theſe, from whom the men of our Age would ſeem to derive their Pedigree; but if they be ſearched thorowly, they wil ap<g ref="char:EOLhyphen"/>pear to be of a later ſtanding, &amp; to be Branches which ſprings from another Root, which indeed is the <hi>Pope,</hi> from whence they had their Riſe and Beginning, as might be clearly evi<g ref="char:EOLhyphen"/>denced and demonſtrated, if it be deſired: Now it will be good and ſafe that theſe men do ſtand upon their own Foun<g ref="char:EOLhyphen"/>dation and Ground, and not to ſtretch themſelves beyond their meaſure, nor to limit the Spirit of God, which limits all things,
+<note place="margin">2 <hi>Cor.</hi> 10.12.</note> and ſearches all things, even the deep things of God: The <hi>Apoſtle</hi> ſaid, Them that meaſure themſelves by themſelves, and compared themſelves amongſt themſelves, were not wiſe; and ſaid, They would not boaſt themſelves without their meaſure, but according to the meaſure of the Rule which God had given them; Not boaſting themſelves without their meaſure that is, of other mens labours, but his glorying was in the Lord, and in the Hope he had in him, who commended himſelf to every man's Conſcience in the ſight of God: And ſo now, if you come to be approved and tried by that of God in every mans Conſcience, then ye will not limit nor offend that in the conſcience, if ye be made manifeſt to that of God in every mans conſcience, in the ſight of God, then will you not lay Burdens, Yoaks, and oppreſſions upon them, but fulfil the Royal Law, according to the Scriptures, which ſaith, <hi>Thou ſhalt love thy Neighbour as thy ſelf:</hi> In this you will do well; but if you reſpect perſons, you wil commit ſin: For the Apoſtle ſaith, <hi>God hath choſen the poor of this world, rich in Faith and Heirs of the Kingdom, which he hath promiſed to them that love him; For God hath choſen the fooliſh things of the World to con<g ref="char:EOLhyphen"/>found the Wiſe;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 27, 28.</note> 
+               <hi>and God hath choſen the weak things of the World to confound the things which are mighty, and baſe things of the World, and things which are deſpiſed hath God choſen, yea and things that are not, to bring to nought the things that are, that no felſh might glory in his treſence.</hi>
+            </p>
+            <p>So it will be for your peace and ſafety, not to be partial in your ſelves, and ſo become Judges with evil thoughts, and judge that to be evil which you know not to be evil; for they that did ſpeak evil of the things that they knew not, the A<g ref="char:EOLhyphen"/>poſtle ſaid,
+<note place="margin">
+                  <hi>Iude</hi> 10.11</note> the <hi>wo was unto them, for they went in the way of Cain and ran greedily after the error of Balaam:</hi> And ſo keep you out
+<pb n="5" facs="tcp:44831:3" rendition="simple:additions"/>of this Way, leſt the hand of the Lord ſtop you, and you pe<g ref="char:EOLhyphen"/>riſh in the gain-ſaying of <hi>Core,</hi> as they did. And be not Jud<g ref="char:EOLhyphen"/>ges of other mens Conſciences, nor take not upon you to u<g ref="char:EOLhyphen"/>ſurp Authority over the Conſciences of men,
+<note place="margin">
+                  <hi>Jam.</hi> 4.12.</note> for that is Chriſt's Prerogative, and the place of his Throne; <hi>For there is one Law-giver, who is able both to ſave, and to deſtroy:</hi> So your ſa<g ref="char:EOLhyphen"/>feſt way will be to leave people to this of God in their con<g ref="char:EOLhyphen"/>ſcience, which they muſt ſtand or fall to, and none to judge another mans Servant, for to his own Maſter muſt he ſtand or fall: But thoſe that will have you to rule over them, and can receive your Doctrine, and own your Church-Government, and Church-fellowſhip, ſuch you may Rule over; for there is a neceſſity that thoſe that are not guided by that of God in their conſciences, there muſt be a Law for ſuch to Rule and Govern them, who are not ſubjected to that of God in them, but are Lawleſs: But truly I ſay unto you, it will be dangerous for you to ſtrive againſt the Power, and the Hand which is now ſtretched forth for the redeeming and recover<g ref="char:EOLhyphen"/>ing the Seed from under Bondage &amp; Captivity, under which they have been long held. Oh remember what it was that <hi>daſhed</hi> you to pieces before! The ſame <hi>Rock</hi> is preſent ſtil, and changeth not; It was the <hi>Preſſures,</hi> and the <hi>Burdens,</hi> the <hi>Yoaks</hi> and <hi>Bondages</hi> that were impoſed upon Peoples conſciences, that was the cauſe that their ſpirits were raiſed and heighten<g ref="char:EOLhyphen"/>ed, and therefore were they even reſolved to fight to the death, for the <hi>LIBERTY</hi> of their <hi>CONSCIENCES;</hi> this <hi>LI<g ref="char:EOLhyphen"/>BERTY</hi> of <hi>CONSCIENCE</hi> is of great <hi>weight,</hi> &amp; gives a great ſtroke in the minds of People; this you will find to be true: Look back and conſider what was impoſed formerly in the dayes of the <hi>Biſhops,</hi> what Spiritual <hi>COURTS,</hi> and ſpiritual <hi>LAWYERS,</hi> what <hi>Sitations</hi> and <hi>EXCOMMUNICATIONS,</hi> and limiting to <hi>Pariſhes, &amp;c.</hi> Oh! ſuch grievous Burdens, as were even heavy to be born: Ye have ſuffered for thoſe things, and God did caſt you out, and diſpoſſeſs you of thoſe things, e<g ref="char:EOLhyphen"/>ven by reaſon of thoſe ſad and heavy burdens which the peo<g ref="char:EOLhyphen"/>ple of theſe Nations ſuffered under, which formerly they could not bear: And now you will find it hard to bring them back into that Bondage again; and now you are in a hope of a poſſibility and likelihood of your being tried the <hi>ſecond time,</hi> but beware that you reſiſt not the Hand that hath ſmitten
+<pb n="6" facs="tcp:44831:4" rendition="simple:additions"/>you, for it will be in vain for you to kick againſt the pricks; for the Work of the Lord muſt go on which he hath begun in this his Day, in which he is delivering &amp; redeeming his Seed out of Bondage, and bringing back the Captivity of <hi>Iſrael,</hi> and the diſperſed of <hi>Judah;</hi> for he hath heard the cry of the oppreſſed Seed, and he hath felt its groanings, and ſeen its ſorrow, and heard its ſighings, and becauſe of the Innocent, he is engaged to plead with all fleſh; for the Deliverer is come to <hi>Zion,</hi> ſo <hi>that</hi> Jacob <hi>ſhall rejoice, and</hi> Iſrael <hi>ſhall be glad,</hi> and he that is the <hi>SUPREME JUDGE</hi> in the conſcience is ariſen, who purgeth the Conſcience from dead Works, to ſerve the living God; and the voice is heard which ſaith, <hi>Ariſe you dead, and come to judgement;</hi> and the time is come, and now is, that the dead do hear the voice of the Son of God, and they that hears, do live; and he that is the Reſurrection and the Life is manifeſted, and he that believes on him, though he be dead, yet ſhall he live; and he that lives and believes, out of his belly flows Rivers of living Waters: And this Fountain and Current is ſet open, which all the Powers of Darkneſs cannot ſtop, which will fill the earth with the <hi>knowledge</hi> of the Lord, e<g ref="char:EOLhyphen"/>ven <hi>as the waters the ſea:</hi> Therefore let all Hands be <hi>ſtaid,</hi> and all Mouths <hi>ſtopt</hi> that would act and ſpeak againſt this;
+<note place="margin">
+                  <hi>Pro.</hi> 21.30 <hi>Iſa.</hi> 14.</note> for there is no Wiſdom, nor Underſtanding, nor Councel againſt the Lord: <hi>I will ariſe (ſaith the Lord) of Hoſts, and cut off from</hi> Babylon <hi>the Name and Remnant, Son and Nephew,</hi> (ſaith the Lord) <hi>and I will make it a Poſſeſſion for the</hi> Bittern, <hi>and I will ſweep it with the Be<g ref="char:EOLhyphen"/>ſom of Deſtruction, ſaith the Lord of Hoſts, who hath ſworn, ſaying, Surely as I have thought, ſo ſhall it come to paſſe, and as I have pur<g ref="char:EOLhyphen"/>poſed, ſo ſhall it ſtand.</hi> And this is the hand that is ſtretched out upon all Nations; ſo let all <hi>fear</hi> and <hi>tremble</hi> before him, who is a conſuming Fire to the Wicked, who is coming to render recompence to his Adverſaries, and Fury to his ene<g ref="char:EOLhyphen"/>mies; for the tranſgreſſions of the people are multiplied, and their Iniquities and ſins teſtifies to their faces; for they go on in tranſgreſſing and lying againſt the Lord, and they are de<g ref="char:EOLhyphen"/>parted from the Way of God, and are ſpeaking and uttering Words of falſhood, &amp; Judgement is turned away backward, and Juſtice ſtandeth afar off; For Truth is fallen in the ſtreets, and Equity cannot enter; yea, Truth falleth, and he that de<g ref="char:EOLhyphen"/>parteth from Iniquity, maketh himſelf a prey, and the Lord
+<pb n="7" facs="tcp:44831:4" rendition="simple:additions"/>hath ſeen it, and it hath diſpleaſed him that there is no true Judgement; therefore hath he put on Righteouſneſs for a Breſt-plate, and a Helmet of Salvation upon his Head, and he hath put on the Garments of Vengeance for Cloathing, and clad with Zeal as a Cloak; according to their deeds, accor<g ref="char:EOLhyphen"/>dingly will he repay; ſo ſhall they fear the Name of the Lord from the <hi>Weſt,</hi> and his glory from the riſing of the Sun; and the redeemed ſhall come to <hi>Zion,</hi> and unto them that turn from tranſgreſſion in <hi>Jacob:</hi> So every one that feareth the Lord, and worketh righteouſneſs, will be accepted of him, and no evil tydings can come to ſuch; and the Lords people ſhall never be aſhamed, though they may ſuffer much, and undergo many ſad afflictions, yet if their ſuffering be not for evil doing, but for the Lord, and for conſcience-ſake, it will not be worthy to be compared to the glory which ſhall be re<g ref="char:EOLhyphen"/>vealed; but it wil be good for you that are called <hi>Miniſters</hi> and <hi>Teachers,</hi> that ye have not your hands in blood and perſecuti<g ref="char:EOLhyphen"/>on; for the blood of the Innocent wil cry aloud in the ears of the Lord; and when he looks &amp; beholds that there is no Plea<g ref="char:EOLhyphen"/>der in the Earth, then is he engaged to ſtand up, and to own that which no eye pitties, which breaths unto him alone, and cannot be ſatisfied without life and refreſhment from him, who is now raiſing up <hi>Paſtors</hi> after his own heart, which loves him, and feeds his Lambs and his Sheep, over which he is the Shepherd; and therefore they cannot want, but he feeds them with green Paſtures, who is the Biſhop of the ſoul, and thoſe that rules over his flock, watches for the ſouls of peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Therefore remember that you are warned in your lifetime to keep your hands from limiting of peoples Conſciences, whoſe Appeal is onely unto the <hi>Lord,</hi> the <hi>Souls Biſhop,</hi> and ſo cannot be limited by no man: Remember alſo, that there were Paſtors that deſtroyed the Vinyard, and the Heritage was unto the Lord as a ſpeckled Bird; and when they aſſem<g ref="char:EOLhyphen"/>bled, they were as Beaſts of the Field that came to devour, and God's Tabernacle was ſpoyled, and their Paſtors were become brutiſh, they ſought not the Lord, and therefore they did not proſper, but their Flocks were ſcattered.</p>
+            <pb n="8" facs="tcp:44831:5"/>
+            <p> Conſider of this, and ſee what the Lord is doing, and do not wilfully ſhut your eyes againſt the Hand of the Lord, leſt you fall into utter ruine and deſtruction; for he is the ſame to day, as he was yeſterday and for ever; and as you tender your own ſouls, and your eternal peace and comfort, be ten<g ref="char:EOLhyphen"/>der of tender Conſciences, which the Lord hath made ten<g ref="char:EOLhyphen"/>der, and which are tender and dear unto him; and make not ye their hearts ſad, which the Lord hath not made ſad, which if you do, ſad and heavy will be your miſery; and if you ſhould go about to limit and bind people to your wayes and worſhips, even upon pain of Firing, Priſoning, Baniſhing, yea if it be to Maſſacring and Martyring, you wil find that there is a people in this Nation that will give up their lives and their Blood for their Teſtimony which they hold, which is the te<g ref="char:EOLhyphen"/>ſtimony of Jeſus, the Spirit of Propheſie, and that will follow the Lamb whereſoever he goes; here is the patience of the Saints, they that keep the Commandments of God, and the Faith of Jeſus, who ſhall overcome by the blood of the Lamb, and the Word of their Teſtimony, who loves not their lives unto death; And now remember that you cannot plead ignorance of this, nor that you are not forewarned that ye might avoid ſhedding innocent blood, which will be an ever<g ref="char:EOLhyphen"/>laſting Teſtimony for the Lord when he comes to make In<g ref="char:EOLhyphen"/>quiſition for Blood, and when he comes to plead the cauſe of the Innocent, who have ſuffered innocently, and for <hi>CONSCIENCE SAKE,</hi> and not for any evil-doing: Then what will you anſwer him? Oh harden not your hearts while it is called to day, but ceaſe to do evil, and learn to do well, that the Lord may have mercy on you, who delights in Mer<g ref="char:EOLhyphen"/>cy, and loves not the death of ſinners, but rather that they ſhould turn from their wickedneſs, and live.</p>
+            <closer>
+               <signed>M. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> and are to be ſold at his Shop at the ſign of the <hi>Black-spread-Eagle</hi> and <hi>Wind-Mill,</hi> in <hi>Martins L'Grand,</hi> 1660.</p>
+            <pb facs="tcp:44831:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
